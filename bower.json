@@ -1,0 +1,22 @@
+{
+  "name": "sn-capitalise",
+  "main": "src/sn-capitalise.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/solnetdigital/sn-capitalise",
+  "authors": [
+    "michael.robinson@solnet.co.nz"
+  ],
+  "description": "Angular JS filter for word capitalisation",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.4",
+    "angular-mocks": "*"
+  }
+}
